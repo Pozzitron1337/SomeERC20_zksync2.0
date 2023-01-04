@@ -4,6 +4,10 @@ Template project that intended to zksync2.0
 
 ## Initialization
 
+0. download packages
+```
+yarn
+```
 1. instantiate `.env` file
 ```
 cp .env.example .env
